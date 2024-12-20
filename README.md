@@ -1,2 +1,2 @@
 # pistachio-s-cave
-Pistachio's cave, where frogs gather, sleep and rest together.
+smol website hosted by pistachio displaying frogs chilling and some fun facts
